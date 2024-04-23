@@ -1,4 +1,4 @@
-Log onto the CCI VM (172.27.12.52 in this case) as root/ibmgsc
+Log onto the CCI VM (xxx in this case) as root/ibmgsc
 
 PREPARATION:
 ============
